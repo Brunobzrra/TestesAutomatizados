@@ -1,2 +1,2 @@
-# TestesAutomatizaos
-Realizando testes automatizados utilizando JUnit, Cucumber e Selenium
+# TestesAutomatizados
+Realizando testes automatizados (WEB) utilizando JUnit, Cucumber e Selenium
