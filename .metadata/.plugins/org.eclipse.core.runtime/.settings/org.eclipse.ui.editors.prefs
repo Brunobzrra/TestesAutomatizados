@@ -1,0 +1,4 @@
+cucumber.eclipse.marker.gherkin.unmatched_step.color=128,128,0
+cucumber.eclipse.marker.gherkin.unmatched_step.text=false
+cucumber.eclipse.marker.stepdef.matches.text=false
+eclipse.preferences.version=1
